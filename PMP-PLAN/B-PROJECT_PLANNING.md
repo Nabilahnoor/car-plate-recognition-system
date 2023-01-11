@@ -52,7 +52,7 @@ In this car plate recognition project, we need to identify the scope of the proj
 | Office of Technology Services (OTech) Representative | Quek Yao Jing | The OTech Representative acts as the liaison between the Project Office and the OTech in defining required services, assisting the project in determining the feasibility of services, cost estimates, planning, and other technical assistance to aid the project in making informed data center decisions.<br><br>This role is important as its will help our company to determine which technology and stack is important. After determine the technology stack and requirement, we can only check the risk management and assessibility. Therefore, OTech is very important to make sure correct technology stack and cost in a company. |
 
 <br><br><br>
-##### Next: [Project Implementation](C-PROJECT_IMPLEMENTATION.md)
+##### Next: [Project Implementation ](Project_Documentation/C-Project_Implementation.md)
 
 
 
